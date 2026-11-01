@@ -13,7 +13,7 @@ function App() {
   return (
     <>
     <Card username = "hello jatin"/> 
-    <Card username = "hello mentor"/>
+    <Card username = "hello mentor"data ="it's jatins card hello world " />
     </> 
   )
 }
